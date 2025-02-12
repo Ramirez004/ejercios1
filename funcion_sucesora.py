@@ -33,6 +33,6 @@ def division(a, b):
         return sucesion(division(resta(a, b), b))
 
 print("Suma:", suma(3, 6))
-print("Resta:", resta(-5, -5))
+print("Resta:", resta(-5, 5))
 print("Multiplicación:", multiplicacion(5, 5))
 print("División:", division(10, 3))
