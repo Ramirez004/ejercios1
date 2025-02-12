@@ -1,0 +1,2 @@
+def sucesion():
+    s
